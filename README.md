@@ -2,7 +2,7 @@
 
 # Practica 7A
 
-## CODIGO
+## CÓDIGO
 ```
 #include "Arduino.h"
 #include "FS.h"
@@ -96,7 +96,7 @@ void loop(){
 
 # Practica 7B
 
-## CODIGO
+## CÓDIGO
 ```
 #include "Audio.h"
 #include "SD.h"
